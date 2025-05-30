@@ -1,2 +1,3 @@
 # LeetGPU
-Solutions to LeetGPU
+
+> Solutions to LeetGPU (https://leetgpu.com/challenges/)
